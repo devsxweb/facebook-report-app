@@ -8,7 +8,7 @@ developer:  https://t.me/fbreport_tool
 # STEPS TO FOLLOW
 - generate up to 100 sessions
 
-- generate proxies, you can use free proxies
+- generate proxies, in json format
 
 developer:  https://t.me/fbreport_tool
 
