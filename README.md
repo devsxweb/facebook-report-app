@@ -22,4 +22,4 @@ contact developer:  https://t.me/fbreport_tool
 an automated tool for sending bulk reports to facebook IDs. fast mass report bot and takedowns
 
 # facebook reporter
-facebook report gigs are available
+facebook report gigs are always available
