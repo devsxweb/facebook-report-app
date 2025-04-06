@@ -24,3 +24,4 @@ an automated tool for sending bulk reports to facebook IDs. fast mass report bot
 # facebook reporter
 facebook report gigs are always available
 # facebook mass reporting bot
+#facebook ban tool
