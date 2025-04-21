@@ -28,3 +28,4 @@ facebook mass reporting bot
 # facebook ban tool
 bulk reporting tool
 # facebook report tool
+facebook bulk report tool
