@@ -1,5 +1,5 @@
 # facebook-report-tool
-A powerful tool for reporting facebook accounts.
+A powerful tool for reporting facebook accounts with mass reporting accounts
 
 developer:  https://t.me/fbreport_tool
 
