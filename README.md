@@ -26,7 +26,7 @@ facebook report gigs are always available
 # facebook mass reporting bot
 facebook mass reporting bot
 # facebook ban tool
-bulk reporting tool
+# bulk reporting tool
 # facebook report tool
 facebook bulk report tool
 # facebook ban report
