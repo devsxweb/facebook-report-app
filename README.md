@@ -38,3 +38,4 @@ facebook report gigs are always available
 # facebook ban bot
 # facebook mass report
 # facebook report tool
+# facebook banner
