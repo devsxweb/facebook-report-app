@@ -42,3 +42,4 @@ facebook report gigs are always available
 # facebook ban
 # facebook banner
 # fb banner
+# facebook ban reporter
