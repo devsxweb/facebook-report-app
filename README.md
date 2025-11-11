@@ -50,3 +50,4 @@ facebook report gigs are always available
 # facebook banner
 # facebook report ban
 # facebook report tool
+# facebook ban reporter
