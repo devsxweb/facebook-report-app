@@ -1,23 +1,24 @@
 # facebook-report-tool
 A powerful tool for reporting facebook accounts with mass reporting accounts
 
-developer:  https://t.me/fbreport_tool
+developer:  https://t.me/redsecure
 
-![randompic](https://github.com/user-attachments/assets/a67ab1db-8810-4ccf-ac04-6739b37c6a97)
+<img width="497" height="364" alt="fbrp" src="https://github.com/user-attachments/assets/0d0d9688-0546-43f2-8161-cfdc0d29f1af" />
+
 
 # STEPS TO FOLLOW
 - generate up to 100 sessions
 
 - generate proxies, in json format
 
-developer:  https://t.me/fbreport_tool
+developer: https://t.me/redsecure
 
 # USAGE
 - there is the windows version and mac os version
 
 for further guide:
 
-contact developer:  https://t.me/fbreport_tool
+contact developer: https://t.me/redsecure
 
 an automated tool for sending bulk reports to facebook IDs. fast mass report bot and takedowns
 
