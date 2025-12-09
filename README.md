@@ -40,7 +40,7 @@ facebook report gigs are always available
 # facebook mass report
 # facebook report tool
 # facebook banner
-# facebook ban
+# facebook ban tool
 # facebook banner
 # fb banner tool
 # facebook ban reporter
