@@ -43,14 +43,4 @@ facebook report gigs are always available
 # facebook ban tool
 # facebook banner
 # fb banner tool
-# facebook ban reporter
-# fb reporter ban bot
-# facebook ban tool
-# facebook report banner
-# facebook ban reporter
-# facebook banner
-# facebook report ban
-# facebook report tool
-# facebook ban reporter
-# facebook ban reporter
-# facebook report ban
+
